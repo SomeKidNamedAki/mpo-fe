@@ -1,0 +1,18 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/hello": "pages/api/hello.js",
+  "/bag": "pages/bag.js",
+  "/faq": "pages/faq.js",
+  "/": "pages/index.js",
+  "/login": "pages/login.js",
+  "/meal/[slug]": "pages/meal/[slug].js",
+  "/meal/modal": "pages/meal/modal.js",
+  "/menu": "pages/menu.js",
+  "/payment": "pages/payment.js",
+  "/placeorder": "pages/placeorder.js",
+  "/profile": "pages/profile.js",
+  "/shipping": "pages/shipping.js",
+  "/signup": "pages/signup.js",
+  "/_error": "pages/_error.js"
+}
